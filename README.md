@@ -2,7 +2,7 @@
 
 Конфиги для v2rayNG, v2raytun, hiddify, nekoray.
 
- - [ ] Инструкция по установке:
+ - [ ] **Инструкция по установке**
 
 ### [➡ 🖥 Windows](https://github.com/finesoldatik/finevpn-config/blob/main/manual/windows-linux-installation.md)
 ### [➡ 🖥 Linux](https://github.com/finesoldatik/finevpn-config/blob/main/manual/windows-linux-installation.md)
