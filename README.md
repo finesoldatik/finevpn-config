@@ -3,7 +3,7 @@
 
 **2.** Копируем в буфер обмена: 
 
-- [ ] **На выбор**
+ - [ ] **На выбор**
 
 1) `https://raw.githubusercontent.com/finesoldatik/finevpn-config/refs/heads/main/all-configs.txt`
 2. `https://raw.githubusercontent.com/finesoldatik/finevpn-config/refs/heads/main/ss-config.txt`
@@ -19,7 +19,7 @@
 
 **2.** Копируем в буфер обмена: 
 
-- [ ] **На выбор**
+ - [ ] **На выбор**
 
 1) `https://raw.githubusercontent.com/finesoldatik/finevpn-config/refs/heads/main/all-configs.txt`
 2. `https://raw.githubusercontent.com/finesoldatik/finevpn-config/refs/heads/main/ss-config.txt`
@@ -42,7 +42,7 @@
 
 **2.** Копируем в буфер обмена: 
 
-- [ ] **На выбор**
+ - [ ] **На выбор**
 
 1) `https://raw.githubusercontent.com/finesoldatik/finevpn-config/refs/heads/main/all-configs.txt`
 2. `https://raw.githubusercontent.com/finesoldatik/finevpn-config/refs/heads/main/ss-config.txt`
@@ -72,7 +72,7 @@
 
 **3.** Копируем в буфер обмена: 
 
-- [ ] **На выбор**
+ - [ ] **На выбор**
 
 1) `https://raw.githubusercontent.com/finesoldatik/finevpn-config/refs/heads/main/all-configs.txt`
 2. `https://raw.githubusercontent.com/finesoldatik/finevpn-config/refs/heads/main/ss-config.txt`
