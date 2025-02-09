@@ -1,0 +1,19 @@
+# https://github.com/finesoldatik/finevpn-config
+# ==============================================
+# =============== finevpn-config ===============
+# ==============================================
+
+ss://chacha20-ietf-poly1305:nlVqIVyKwWoDsD7dVYT9Y0@81.19.140.31:65305#%F0%9F%87%A8%F0%9F%87%A6%20CA%2081.19.140.31%20%E2%97%88%20tcp%3A65305%20%E2%97%88%20Global%20ConnectivityLLP%20%E2%97%88%20458ad
+ss://aes-128-gcm:shadowsocks@149.22.95.183:443#%F0%9F%87%A8%F0%9F%87%A6%20CA%20149.22.95.183%20%E2%97%88%20tcp%3A443%20%E2%97%88%20Datacamp%20Limited%20%E2%97%88%20d6fc1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTamRHQ0h3YWZqa3R0MXJ6cEd4VEtZVHZWQldiOFhhNkU1RFRyNk16YmRIUVN3dnBMaURjemozbjZNQmp5MnV5RlN6Z3FndkNXc0RRbXBNNFZRemZQenlHWUY1OHdkeUQ@208.67.105.196:42029#%F0%9F%93%A122%40oneclickvpnkeys
+ss://YWVzLTI1Ni1jZmI6cnBnYk5uVTlyRERVNGFXWg@217.30.10.18:9094#%F0%9F%93%A115%40oneclickvpnkeys
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.34.244.68:443#%F0%9F%8C%BA19%40oneclickvpnkeys
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.34.244.82:443#%F0%9F%90%8D52%40oneclickvpnkeys
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmRERtSDRRZWZtV3FNSjhVVVJackdo@86.104.74.243:14255#%F0%9F%93%A124%40oneclickvpnkeys
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#15%F0%9F%93%A1%40oneclickvpnkeys
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMSTRvYk9FSURMekRqZDd4WWxoaFRK@86.104.75.103:49264#%E2%9B%84%EF%B8%8F34%40oneclickvpnkeys
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnbVlEelNHNkszNXM4YjE5b1k0Zkd6@92.118.112.111:18622#%E2%9B%84%EF%B8%8F27%40oneclickvpnkeys
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.63:57456#%E2%9B%84%EF%B8%8F66%40oneclickvpnkeys
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#%F0%9F%8D%9335@avencoresyt
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptMkE2eEdTRDEydkJ0cVpVbEtDTk1VVU9iWlh0MFBIdVBzbVVCOW1RenJyakRxVlQ=@109.207.79.180:31348#%F0%9F%8D%9349@avencoresyt
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0ZWxlZ3JhbV9yeXVrb2hr@cs_office.hideshots.eu:6001#1%20%F0%9F%87%B1%F0%9F%87%BB%20Shadowsocks%20[t.me/ryukohk]
