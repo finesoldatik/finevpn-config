@@ -11,7 +11,7 @@ https://raw.githubusercontent.com/finesoldatik/finevpn-config/refs/heads/main/al
 ```
 2)
 ```
-https://raw.githubusercontent.com/finesoldatik/finevpn-config/refs/heads/main/ss-config.txt
+https://raw.githubusercontent.com/finesoldatik/finevpn-config/refs/heads/main/shadowsocks-config.txt
 ```
 3) 
 ```
