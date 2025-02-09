@@ -1,7 +1,14 @@
 # 📱 Гайд для Android
 **1.** Скачиваем **v2rayNG** - [Ссылка](https://github.com/2dust/v2rayNG/releases/download/1.9.31/v2rayNG_1.9.31_universal.apk)
 
-**2.** Копируем в буфер обмена: `https://raw.githubusercontent.com/finesoldatik/finevpn-config/refs/heads/main/config.txt`
+**2.** Копируем в буфер обмена: 
+
+- [ ] **На выбор**
+
+1) `https://raw.githubusercontent.com/finesoldatik/finevpn-config/refs/heads/main/all-configs.txt`
+2. `https://raw.githubusercontent.com/finesoldatik/finevpn-config/refs/heads/main/ss-config.txt`
+3) `https://raw.githubusercontent.com/finesoldatik/finevpn-config/refs/heads/main/trojan-config.txt`
+4. `https://raw.githubusercontent.com/finesoldatik/finevpn-config/refs/heads/main/vless-config.txt`
 
 **3.** Заходим в приложение **v2rayNG** и в правом верхнем углу нажимаем на ➕, а затем выбираем **Импорт из буфера обмена**.
    
@@ -10,7 +17,14 @@
 # 📺 Гайд для Android TV
 **1.** Скачиваем v2rayNG - [Ссылка](https://github.com/2dust/v2rayNG/releases/download/1.9.31/v2rayNG_1.9.31_universal.apk)
 
-**2.** Копируем в буфер обмена: `https://raw.githubusercontent.com/finesoldatik/finevpn-config/refs/heads/main/config.txt`
+**2.** Копируем в буфер обмена: 
+
+- [ ] **На выбор**
+
+1) `https://raw.githubusercontent.com/finesoldatik/finevpn-config/refs/heads/main/all-configs.txt`
+2. `https://raw.githubusercontent.com/finesoldatik/finevpn-config/refs/heads/main/ss-config.txt`
+3) `https://raw.githubusercontent.com/finesoldatik/finevpn-config/refs/heads/main/trojan-config.txt`
+4. `https://raw.githubusercontent.com/finesoldatik/finevpn-config/refs/heads/main/vless-config.txt`
 
 **3.** Заходим в приложение **v2rayNG** и в правом верхнем углу нажимаем на ➕, а затем выбираем **Импорт из буфера обмена**.
 
@@ -26,7 +40,15 @@
 # 🖥 Гайд для Windows, Linux
 **1.** Скачиваем **NekoRay** - [Windows](https://github.com/MatsuriDayo/nekoray/releases/download/4.0.1/nekoray-4.0.1-2024-12-12-windows64.zip) / [Linux](https://github.com/MatsuriDayo/nekoray/releases/download/4.0.1/nekoray-4.0.1-2024-12-12-linux-x64.AppImage)
 
-**2.** Копируем в буфер обмена: `https://raw.githubusercontent.com/finesoldatik/finevpn-config/refs/heads/main/config.txt`
+**2.** Копируем в буфер обмена: 
+
+- [ ] **На выбор**
+
+1) `https://raw.githubusercontent.com/finesoldatik/finevpn-config/refs/heads/main/all-configs.txt`
+2. `https://raw.githubusercontent.com/finesoldatik/finevpn-config/refs/heads/main/ss-config.txt`
+3) `https://raw.githubusercontent.com/finesoldatik/finevpn-config/refs/heads/main/trojan-config.txt`
+4. `https://raw.githubusercontent.com/finesoldatik/finevpn-config/refs/heads/main/vless-config.txt`
+
 
 **3.** Нажимаем на **Сервер**, а затем **Импортировать из буфера**.
 
@@ -48,7 +70,14 @@
 
 **2.** Нажимаем **Новый профиль**.
 
-**3.** Копируем в буфер обмена: `https://raw.githubusercontent.com/finesoldatik/finevpn-config/refs/heads/main/config.txt`
+**3.** Копируем в буфер обмена: 
+
+- [ ] **На выбор**
+
+1) `https://raw.githubusercontent.com/finesoldatik/finevpn-config/refs/heads/main/all-configs.txt`
+2. `https://raw.githubusercontent.com/finesoldatik/finevpn-config/refs/heads/main/ss-config.txt`
+3) `https://raw.githubusercontent.com/finesoldatik/finevpn-config/refs/heads/main/trojan-config.txt`
+4. `https://raw.githubusercontent.com/finesoldatik/finevpn-config/refs/heads/main/vless-config.txt`
 
 **4.** Нажимаем на кнопку **Добавить из буфера обмена**.
    
