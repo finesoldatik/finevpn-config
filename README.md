@@ -21,7 +21,7 @@
 ```
 https://raw.githubusercontent.com/finesoldatik/finevpn-config/refs/heads/main/all-configs.txt
 ```
-2.
+2)
 ```
 https://raw.githubusercontent.com/finesoldatik/finevpn-config/refs/heads/main/ss-config.txt
 ```
@@ -29,7 +29,7 @@ https://raw.githubusercontent.com/finesoldatik/finevpn-config/refs/heads/main/ss
 ```
 https://raw.githubusercontent.com/finesoldatik/finevpn-config/refs/heads/main/trojan-config.txt
 ```
-4. 
+4) 
 ```
 https://raw.githubusercontent.com/finesoldatik/finevpn-config/refs/heads/main/vless-config.txt
 ```
