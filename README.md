@@ -1,6 +1,6 @@
 # finevpn-config
 
-Конфиги для v2rayNG, v2raytun, hiddify, nekoray.
+Множество бесплатных и рабочих v2ray конфигов.
 
  - [ ] **Инструкция по установке**
 
@@ -67,3 +67,7 @@ https://raw.githubusercontent.com/finesoldatik/finevpn-config/refs/heads/main/li
 ```
 https://raw.githubusercontent.com/finesoldatik/finevpn-config/refs/heads/main/lists-of-50/list-8.txt
 ```
+
+### Сторонние источники
+
+### [v2ray-configs - множество списков с конфигами для v2ray. Не все из них рабочие.](https://github.com/Epodonios/v2ray-configs)
