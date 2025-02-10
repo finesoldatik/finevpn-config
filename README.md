@@ -17,19 +17,53 @@
 
  - [ ] **Добавьте любой конфиг на выбор**
 
-1)
+### Все конфиги
 ```
 https://raw.githubusercontent.com/finesoldatik/finevpn-config/refs/heads/main/all-configs.txt
 ```
-2)
+
+### Разделенные по протоколам
 ```
-https://raw.githubusercontent.com/finesoldatik/finevpn-config/refs/heads/main/shadowsocks-config.txt
+https://raw.githubusercontent.com/finesoldatik/finevpn-config/refs/heads/main/splitted-by-protocol/ss-config.txt
 ```
-3) 
+###
 ```
-https://raw.githubusercontent.com/finesoldatik/finevpn-config/refs/heads/main/trojan-config.txt
+https://raw.githubusercontent.com/finesoldatik/finevpn-config/refs/heads/main/splitted-by-protocol/trojan-config.txt
 ```
-4) 
+###
 ```
-https://raw.githubusercontent.com/finesoldatik/finevpn-config/refs/heads/main/vless-config.txt
+https://raw.githubusercontent.com/finesoldatik/finevpn-config/refs/heads/main/splitted-by-protocol/vless-config.txt
+```
+
+### Разделенные на списки по 50
+```
+https://raw.githubusercontent.com/finesoldatik/finevpn-config/refs/heads/main/lists-of-50/list-1.txt
+```
+###
+```
+https://raw.githubusercontent.com/finesoldatik/finevpn-config/refs/heads/main/lists-of-50/list-2.txt
+```
+###
+```
+https://raw.githubusercontent.com/finesoldatik/finevpn-config/refs/heads/main/lists-of-50/list-3.txt
+```
+###
+```
+https://raw.githubusercontent.com/finesoldatik/finevpn-config/refs/heads/main/lists-of-50/list-4.txt
+```
+###
+```
+https://raw.githubusercontent.com/finesoldatik/finevpn-config/refs/heads/main/lists-of-50/list-5.txt
+```
+###
+```
+https://raw.githubusercontent.com/finesoldatik/finevpn-config/refs/heads/main/lists-of-50/list-6.txt
+```
+###
+```
+https://raw.githubusercontent.com/finesoldatik/finevpn-config/refs/heads/main/lists-of-50/list-7.txt
+```
+###
+```
+https://raw.githubusercontent.com/finesoldatik/finevpn-config/refs/heads/main/lists-of-50/list-8.txt
 ```

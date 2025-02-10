@@ -5,21 +5,22 @@
 
  - [ ] **На выбор**
 
-1)
+### Все конфиги
 ```
 https://raw.githubusercontent.com/finesoldatik/finevpn-config/refs/heads/main/all-configs.txt
 ```
-2)
+
+### Разделенные по протоколам
 ```
-https://raw.githubusercontent.com/finesoldatik/finevpn-config/refs/heads/main/shadowsocks-config.txt
+https://raw.githubusercontent.com/finesoldatik/finevpn-config/refs/heads/main/splitted-by-protocol/ss-config.txt
 ```
-3) 
+###
 ```
-https://raw.githubusercontent.com/finesoldatik/finevpn-config/refs/heads/main/trojan-config.txt
+https://raw.githubusercontent.com/finesoldatik/finevpn-config/refs/heads/main/splitted-by-protocol/trojan-config.txt
 ```
-4) 
+###
 ```
-https://raw.githubusercontent.com/finesoldatik/finevpn-config/refs/heads/main/vless-config.txt
+https://raw.githubusercontent.com/finesoldatik/finevpn-config/refs/heads/main/splitted-by-protocol/vless-config.txt
 ```
 
 **3.** Нажимаем на **Сервер**, а затем **Импортировать из буфера**.
