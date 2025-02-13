@@ -9,10 +9,9 @@ async def parse_proxy_url(proxy_url: str):
     server_port = int(parsed_url.port)
     return server_address, server_port
 
-async def get_latency_for_proxy(proxy_url: str, respondents: list):
+async def get_latency_for_proxy(proxy_url: str, respondents: list, max_latency: int):
     server_address, server_port = await parse_proxy_url(proxy_url)
     print(f"Проверка задержки для {server_address}:{server_port}...")
-
     start_time = time.time()
 
     try:
@@ -26,18 +25,19 @@ async def get_latency_for_proxy(proxy_url: str, respondents: list):
         
         latency = int((time.time() - start_time) * 1000)
         print(f"{server_address}:{server_port} ответил за {latency} мс.")
-        respondents.append({
-            "proxy_url": proxy_url,
-            "latency": int(latency),
-            "address": server_address,
-            "port": server_port
-        })
+        
+        if max_latency == 0 or latency <= max_latency:
+            respondents.append({
+                "proxy_url": proxy_url,
+                "latency": int(latency),
+            })
+
     except asyncio.TimeoutError:
         print(f"{server_address}:{server_port} недоступен (тайм-аут).")
     except Exception as e:
         print(f"{server_address}:{server_port}. Ошибка при подключении: {e}")
 
-async def check_proxies_from_file(filepath: str, respondents: list):
+async def check_proxies_from_file(filepath: str, respondents: list, max_latency: int):
     with open(filepath, 'r', encoding="utf-8") as file:
         tasks = []
         for line in file:
@@ -45,30 +45,31 @@ async def check_proxies_from_file(filepath: str, respondents: list):
             if not line or line.startswith('#'):
                 continue
             # Создаем асинхронную задачу для каждого прокси
-            tasks.append(get_latency_for_proxy(line, respondents))
+            tasks.append(get_latency_for_proxy(line, respondents, max_latency))
         
         # Ожидаем выполнения всех задач
         await asyncio.gather(*tasks)
 
 if __name__ == "__main__":
     respondents = []
-    fin = ""
-    fout = ""
+    fin = "../all-configs.txt"
+    fout = "./result.json"
+    max_latency = 0
 
     new_fin = input("Введите путь к входному файлу (../all-configs.txt)>> ")
     new_fout = input("Введите путь к выходному файлу (./result.json)>> ")
+    new_max_latency = input("Введите максимальный пинг - фильтр (0)>> ")
 
     if new_fin != '':
         fin = new_fin
-    else:
-        fin = "../all-configs.txt"
     
     if new_fout != '':
         fout = new_fout
-    else:
-        fout = "./result.json"
 
-    asyncio.run(check_proxies_from_file(fin, respondents))
+    if new_max_latency != '':
+        max_latency = int(new_max_latency)
+
+    asyncio.run(check_proxies_from_file(fin, respondents, max_latency))
 
     with open(fout, 'w', encoding='utf-8') as file:
         json.dump({"data": respondents}, file, ensure_ascii=False, indent=2)
